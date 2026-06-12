@@ -2,7 +2,7 @@
 
 这个包用于解决“龙芯/银河麒麟机器无法访问 GitHub”的问题。包里已经包含：
 
-- `repos/Macast`：Macast v0.7 源码
+- `repos/Macast`：Macast v0.7 [源码](https://github.com/xfangfang/Macast)
 - `repos/pystray`：作者 fork 的 pystray 源码
 - `repos/pyperclip`：作者 fork 的 pyperclip 源码
 - `wheels/`：离线 Python 依赖包，包括 `appdirs`、`CherryPy`、`PyInstaller` 等
